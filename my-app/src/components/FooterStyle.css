@@ -1,7 +1,7 @@
 .footer {
   width: 100%;
   padding: 6rem 0;
-  background-color: rgba(19, 19, 19, 0.8);
+  background-color: black;
 }
 
 .footer-container {
@@ -64,6 +64,7 @@ p {
     text-align: center;
     margin-left: 50%;
     width: 100%;
+    font-size: 1rem;
 }
 
 @media screen and (max-width: 640px) {
