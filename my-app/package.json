@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://katykb.github.io/Katy-Brown-Portfolio-react",
+  "homepage": "https://katykb.github.io/katyBrown-portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
@@ -22,6 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
