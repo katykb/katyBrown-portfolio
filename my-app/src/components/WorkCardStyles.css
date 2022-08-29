@@ -4,7 +4,8 @@
 }
 
 .project-container {
-  max-width: 1140px;
+  max-width: 1940px;
+  align-items: center;
   margin: auto;
   display: grid;
   grid-template-columns: repeat(3, 1fr);

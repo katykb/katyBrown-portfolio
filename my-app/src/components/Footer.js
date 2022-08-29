@@ -14,7 +14,7 @@ export const Footer = () => {
       <div className="footer-container">
         <div className="left">
           <div className="location">
-            <FaHome size={30} style={{ color: "#fff", marginRight: "2rem" }} />
+            <FaHome size={40} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
               <p>Based in Dallas/Fort Worth area</p>
             </div>
@@ -61,11 +61,10 @@ export const Footer = () => {
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
             </a>
+            <div className="copyright">
+              &copy;{new Date().getFullYear()} | Katy Brown{" "}
+            </div>
           </div>
-        </div>
-        <div className="copyright">
-          {" "}
-          &copy;{new Date().getFullYear()} | Katy Brown{" "}
         </div>
       </div>
     </div>
