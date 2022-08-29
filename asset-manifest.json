@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3cccb3f.css",
+    "main.js": "/static/js/main.31d432fd.js",
+    "static/media/weatherApp.jpg": "/static/media/weatherApp.5c52ed3f061bd9bf0375.jpg",
+    "static/media/longPic.jpg": "/static/media/longPic.2731b39007f91caf821e.jpg",
+    "static/media/imsImage.jpg": "/static/media/imsImage.a6960475bf3cb557935e.jpg",
+    "static/media/Food Dictionary Landing.png": "/static/media/Food Dictionary Landing.1ffa44887318705861ba.png",
+    "static/media/heroImg.jpg": "/static/media/heroImg.5f2ac4bbf65e535a4fc0.jpg",
+    "static/media/canvaPic.jpg": "/static/media/canvaPic.74fff6824a5087b01599.jpg",
+    "index.html": "/index.html",
+    "main.b3cccb3f.css.map": "/static/css/main.b3cccb3f.css.map",
+    "main.31d432fd.js.map": "/static/js/main.31d432fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3cccb3f.css",
+    "static/js/main.31d432fd.js"
+  ]
+}
