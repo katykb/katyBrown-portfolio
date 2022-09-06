@@ -1,8 +1,6 @@
 import React from "react";
 import "./WorkCardStyles.css";
 
-import { NavLink } from "react-router-dom";
-
 const WorkCard = (props) => {
   return (
     <div className="work-container">
@@ -13,12 +11,12 @@ const WorkCard = (props) => {
           <div className="pro-details">
             <p>{props.text}</p>
             <div className="pro-btns">
-              <NavLink to={props.github} className="btn">
+              <a href={props.github} className="btn">
                 GitHub
-              </NavLink>
-              <NavLink to={props.deploy} className="btn">
+              </a>
+              <a href={props.deploy} className="btn">
                 Deployed
-              </NavLink>
+              </a>
             </div>
           </div>
         </div>
