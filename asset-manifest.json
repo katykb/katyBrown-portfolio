@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/katyBrown-portfolio/static/css/main.a1f40dd4.css",
-    "main.js": "/katyBrown-portfolio/static/js/main.db0672bf.js",
+    "main.css": "/katyBrown-portfolio/static/css/main.2967cd29.css",
+    "main.js": "/katyBrown-portfolio/static/js/main.a2411b31.js",
     "static/media/weatherApp.jpg": "/katyBrown-portfolio/static/media/weatherApp.5c52ed3f061bd9bf0375.jpg",
     "static/media/longPic.jpg": "/katyBrown-portfolio/static/media/longPic.2731b39007f91caf821e.jpg",
     "static/media/imsImage.jpg": "/katyBrown-portfolio/static/media/imsImage.a6960475bf3cb557935e.jpg",
@@ -9,11 +9,11 @@
     "static/media/heroImg.jpg": "/katyBrown-portfolio/static/media/heroImg.5f2ac4bbf65e535a4fc0.jpg",
     "static/media/canvaPic.jpg": "/katyBrown-portfolio/static/media/canvaPic.74fff6824a5087b01599.jpg",
     "index.html": "/katyBrown-portfolio/index.html",
-    "main.a1f40dd4.css.map": "/katyBrown-portfolio/static/css/main.a1f40dd4.css.map",
-    "main.db0672bf.js.map": "/katyBrown-portfolio/static/js/main.db0672bf.js.map"
+    "main.2967cd29.css.map": "/katyBrown-portfolio/static/css/main.2967cd29.css.map",
+    "main.a2411b31.js.map": "/katyBrown-portfolio/static/js/main.a2411b31.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1f40dd4.css",
-    "static/js/main.db0672bf.js"
+    "static/css/main.2967cd29.css",
+    "static/js/main.a2411b31.js"
   ]
 }
