@@ -16,7 +16,7 @@
 ### Usage
       This is intended to demonstrate my recent work as well as show I am working with React.js
 ### Instructions
-      Please visit: https://katykb.github.io/katyBrown-Portfolio
+      Please visit: https://katykb.github.io/katyBrown-portfolio/
 ### License
       NoLicense
 ### Contributors
