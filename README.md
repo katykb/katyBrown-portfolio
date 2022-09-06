@@ -20,7 +20,10 @@
 ### License
       NoLicense
 ### Contributors
-      I would like to thank "Tech2 etc" for this video: https://www.youtube.com/watch?v=0h2b4ftbZcU. I followed along and was able to create this portfolio,        which I think is pretty nice! I am still in the process of making a more unique design as well as trying to get the responsivenes debugged.
+      I would like to thank "Tech2 etc" for this video: https://www.youtube.com/watch?v=0h2b4ftbZcU. 
+      I followed along and was able to create this portfolio, which I think is pretty nice! 
+      I am still in the process of making a more unique design as well as trying to get the responsivenes debugged 
+      (which occured after my changing some of the original suggustions for the project).
       I recommend this tutorial if you are trying to put together a portfolio or any site really made with React.js.
 ### Test
       no formal testing. Debugging was done by utilizing the console located in developer tools.
